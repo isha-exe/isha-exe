@@ -1,4 +1,4 @@
-### Hi there 👋 I am Isha Narang.
+# Hi there 👋 I am Isha Narang.
 ## Student at Bhilai Institute of Technology, Durg 
 ## Co-organizer at Kotlin User Group, Durg
 ## Coordinator and Graphic Designer at Developer Student Community
