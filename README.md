@@ -1,5 +1,5 @@
 # Hi there 👋 I am Isha Narang.
-## Student at Bhilai Institute of Technology, Durg 
+## M. Tech Student at IIT Gandhinagar
 ## Co-organizer at Kotlin User Group, Durg
 ## Coordinator and Graphic Designer at Developer Student Community
 - 🌱 I’m currently learning Android Development
